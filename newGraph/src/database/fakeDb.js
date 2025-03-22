@@ -21,20 +21,20 @@ export const users = [
 
 export const quotes = [
   {
-    id: 1234,
+    by: 1234,
     quote:
       "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
     author: "Albert Einstein",
   },
   {
-    id: 22345,
+    by: 22345,
     quote:
       "The greatest glory in living lies not in never falling, but in rising every time we fall.",
     author: "Confucius",
   },
   {
-    id: 3345,
-    quote:
+    by: 3345,
+    quoste:
       "Suffering has been stronger than all other teaching, and has taught me that I am the only one who can change the world.",
     author: "Mahatma Gandhi",
   },
